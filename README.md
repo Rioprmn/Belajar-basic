@@ -10,7 +10,7 @@ Project ini dibuat untuk:
 - Mengenal tag-tag penting HTML
 - Membiasakan diri membuat **halaman web statis** yang bisa dibuka di browser
 
-Belajar HTML adalah pondasi pertama untuk menjadi pengembang web. 📌HTML membantu kita **menentukan struktur konten web** seperti yang dipelajari di materi yang saya ikuti. :contentReference[oaicite:0]{index=0}
+Belajar HTML adalah pondasi pertama untuk menjadi pengembang web. 📌HTML membantu kita **menentukan struktur konten web** seperti yang dipelajari di materi yang saya ikuti. 
 
 ---
 
