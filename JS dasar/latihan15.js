@@ -10,3 +10,22 @@ var mahasiswa = {
     }
 };
 
+
+//function declaration
+function namaMahasiswa(nama, umur) {
+    var mahasiswa = {};
+    mahasiswa.nama = nama;
+    mahasiswa.umur = umur;
+    return mahasiswa; 
+}
+
+var mahasiswa1 = namaMahasiswa("rio", 20);
+
+
+//constructor function
+function Mahasiswa(nama, umur) {
+    this.nama = nama;
+    this.umur = umur;
+}
+
+var mahasiswa2 = new Mahasiswa("Rizki", 20);  
